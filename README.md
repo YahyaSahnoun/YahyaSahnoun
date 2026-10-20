@@ -71,7 +71,7 @@ A self-contained Docker Compose environment with a Spark 3.5 standalone cluster 
 Recommender on MovieLens 100k comparing classic collaborative filtering (KNN, SVD, NMF) with deep-learning approaches (Neural Collaborative Filtering, AutoRec), served through an interactive Streamlit app.
 <br>`Python` `PyTorch` `scikit-learn` `Streamlit`
 
-### 🩺 [Medical Document Summarization Benchmark](https://github.com/YahyaSahnoun/resumerMed) *(in progress)*
+### 🩺 [Medical Document Summarization Benchmark](https://github.com/YahyaSahnoun/resumerMed)
 Engineering-year project benchmarking extractive, abstractive (BART) and LLM + RAG summarization on medical text, focused on factual faithfulness rather than ROUGE alone.
 <br>`NLP` `RAG` `Ollama` `Python`
 
