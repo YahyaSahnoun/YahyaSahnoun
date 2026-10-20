@@ -10,7 +10,7 @@ Building batch data pipelines and lakehouse-style platforms with Spark, Airflow 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-YahyaSahnoun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YahyaSahnoun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-sahnoun)
 
 </div>
 
@@ -20,7 +20,7 @@ Building batch data pipelines and lakehouse-style platforms with Spark, Airflow 
 
 I'm a third-year engineering student in Computer Engineering and Data Engineering (Génie Informatique et Ingénierie des Données) at ENSA Khouribga, and I also study at École 1337.
 
-I like the part of data work that happens before the dashboard: ingesting, cleaning, orchestrating and serving data reliably. I've done a Data Engineering internship at **Banque Centrale Populaire** and a Data Analytics internship at **CIH Bank**, and I'm now looking for my end-of-studies internship (PFE) in 2027.
+I like the part of data work that happens before the dashboard: ingesting, cleaning, orchestrating and serving data reliably. At **Banque Populaire** I did a Data Engineering internship building a Big Data eligibility-scoring pipeline over 21 source tables and 3.17 million clients, and at **CIH Bank** a Data Analytics internship on KPI dashboards. I'm now looking for my end-of-studies internship (PFE) in 2027.
 
 ---
 
@@ -39,6 +39,14 @@ I like the part of data work that happens before the dashboard: ingesting, clean
 **Orchestration & streaming**<br>
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Storage & ingestion**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/Hadoop%20HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Apache NiFi](https://img.shields.io/badge/NiFi-728E9B?style=flat-square&logo=apachenifi&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 
 **Infrastructure & cloud**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -67,8 +75,10 @@ Recommender on MovieLens 100k comparing classic collaborative filtering (KNN, SV
 Engineering-year project benchmarking extractive, abstractive (BART) and LLM + RAG summarization on medical text, focused on factual faithfulness rather than ROUGE alone.
 <br>`NLP` `RAG` `Ollama` `Python`
 
+**Also built (not published as public repos yet):** an end-to-end Databricks pipeline with PySpark, Spark SQL, Delta Lake and dbt (Bronze/Silver/Gold layers with data-quality tests), and a containerized Hadoop HDFS cluster extended across several machines with Docker Swarm.
+
 ---
 
 ## Let's connect
 
-I'm open to PFE opportunities in data engineering starting in 2027. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE), and the rest of my code lives on [GitHub](https://github.com/YahyaSahnoun?tab=repositories).
+I'm open to PFE opportunities in data engineering starting in 2027. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/yahya-sahnoun), and the rest of my code lives on [GitHub](https://github.com/YahyaSahnoun?tab=repositories).
